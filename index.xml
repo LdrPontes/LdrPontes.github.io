@@ -4,32 +4,28 @@
     <title>ldrpontes.dev</title>
     <link>https://www.ldrpontes.dev/</link>
     <description>Recent content on ldrpontes.dev</description>
-    <generator>Hugo -- gohugo.io</generator>
+    <generator>Hugo -- 0.121.1</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 12 Dec 2023 21:02:16 -0300</lastBuildDate><atom:link href="https://www.ldrpontes.dev/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 12 Dec 2023 21:02:16 -0300</lastBuildDate>
+    <atom:link href="https://www.ldrpontes.dev/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>What you should consider in every task you do</title>
       <link>https://www.ldrpontes.dev/blog/task-checklist/</link>
       <pubDate>Tue, 12 Dec 2023 21:02:16 -0300</pubDate>
-      
       <guid>https://www.ldrpontes.dev/blog/task-checklist/</guid>
       <description>Introduction States Initial/Idle Loading Success Error Empty Components Atomic Design Rules User Experience (UX) Is there any interaction stuck? Is there any strange behavior? (e.g. back animation, scroll, etc) Layout consistency (Spacing, Typography, Colors, etc) Tests Unit
 Integration
 UI
 Documentation </description>
     </item>
-    
     <item>
       <title></title>
       <link>https://www.ldrpontes.dev/about/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
       <guid>https://www.ldrpontes.dev/about/</guid>
       <description>About Me Hi 👋!
 My name is Leandro and I&amp;rsquo;m from 🇧🇷 Curitiba, Brazil. I&amp;rsquo;m a Software Engineer with 7 years of experience in the field with a focus on mobile development.
 👨🏻‍💻 I&amp;rsquo;m currently working at Cheesecake Labs as a Senior Software Engineer. 🎓 I&amp;rsquo;m graduated in Bachelor of Information Systems and Technology at UTFPR. Technologies and a bit of everything else... </description>
     </item>
-    
-    
   </channel>
 </rss>
